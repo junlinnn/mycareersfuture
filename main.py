@@ -61,4 +61,4 @@ def search(phrase):
 # %%
 
 
-search('fund')
+search('data analyst')
